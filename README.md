@@ -1,4 +1,4 @@
-# 认识 React
+# 认识 React高级
 React 是 facebook 开源的一套框架，可总结为以下几个特点：
 - 基于 JSX 语法糖实现
 - JUST THE UI：在多层架构的设计模式中，React 并不算 MVC 的架构，它可理解为 MVC 的 V 层。
